@@ -18,6 +18,7 @@ It allows me to see how each commit is connected to the next. It's a fairly simp
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The result is that the combined things added to the original file are inserted, and the combined things deleted from the original file are deleted.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
