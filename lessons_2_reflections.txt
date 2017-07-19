@@ -22,3 +22,4 @@ The result is that the combined things added to the original file are inserted, 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Manual merges can be more accurate but time consuming. Automatic merging can also be fairly accurate but can create a mess in your code.
