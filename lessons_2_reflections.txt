@@ -4,12 +4,14 @@ Everything is set up to begin your version control.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+It allows you to store files and lets you check their status before doing a commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches are good for when experimental features are introduced, so as to not interfere with the master code until it's set into stone.
 
 How do the diagrams help you visualize the branch structure?
 
